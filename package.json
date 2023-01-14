@@ -1,0 +1,24 @@
+{
+  "name": "tech blog",
+  "version": "1.0.0",
+  "description": "## Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lisette33/MCV-Tech-Blog-Project.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Lisette33/MCV-Tech-Blog-Project/issues"
+  },
+  "homepage": "https://github.com/Lisette33/MCV-Tech-Blog-Project#readme"
+}
