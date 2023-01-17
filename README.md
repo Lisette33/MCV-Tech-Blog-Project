@@ -12,7 +12,7 @@ Lisette Morales
 The application allows users to post their blogs. The application follows Model-view Controller, Sequalize, Handlebars.js, and Express. Also, users or developers can share their blogs.
 
 ## Screenshot of Application
-![Model-View-Controller: Tech Blog Project](
+![Model-View-Controller: Tech Blog Project](https://user-images.githubusercontent.com/113862182/213027425-cf962dc2-f136-4f9b-9b6f-1d208426eb03.png)(https://user-images.githubusercontent.com/113862182/213027636-0581bec8-2971-43ff-bc91-814d5f2d9bcd.png)(https://user-images.githubusercontent.com/113862182/213027705-e0045142-4f86-485d-b9fb-9869f919dacd.png)
 
 ## Project Guidelines stated as:
 
