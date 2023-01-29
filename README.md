@@ -7,6 +7,9 @@ Lisette Morales
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## Deploment URL:
+https://immense-harbor-62913.herokuapp.com/login
+
 ## Description
 
 The application allows users to post their blogs. The application follows Model-View Controller and uses Sequalize, Handlebars.js, and Express. Also, users or developers can share their blogs.
