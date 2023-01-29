@@ -8,7 +8,7 @@ Lisette Morales
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Deploment URL:
-https://immense-harbor-62913.herokuapp.com/login
+https://immense-harbor-62913.herokuapp.com
 
 ## Description
 
