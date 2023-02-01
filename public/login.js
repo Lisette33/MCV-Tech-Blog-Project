@@ -29,14 +29,14 @@ loginform.addEventListener ("submit", async function(event){
 
 signupform.addEventListener ("submit", async function(event){
     event.preventDefault();
-    var name = document.querySelector("#signupUser").value;
+    var email = document.querySelector("#signupUser").value;
 
     var password = document.querySelector("#signupPassword").value;
     
-    if (name && password) {
+    if (email && password) {
         const response = await fetch('/api/users/', {
           method: 'POST',
-          body: JSON.stringify({ name, password }),
+          body: JSON.stringify({ email, password, name:"John Doe" }),
           headers: { 'Content-Type': 'application/json' },
         });
 
